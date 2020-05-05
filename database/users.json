@@ -1,0 +1,16 @@
+{
+"bob": {
+    "name": "Bob",
+    "id": "1"
+  },
+
+"boba": {
+    "name": "Boba",
+    "id": "2"
+  },
+
+"boban": {
+    "name": "Boban",
+    "id": "3"
+  }
+}
